@@ -8,6 +8,7 @@ body{
 	background-repeat: no-repeat;
 	margin: 0 auto;
 	overflow: hidden;
+	position: relative;
 }
 
 #diagram{
@@ -35,7 +36,7 @@ body{
 }
 
 #content_old{
-	right: 790px;
+	left: 60px;
 	background-color: rgba(152,142,142,0.8);
 }
 
