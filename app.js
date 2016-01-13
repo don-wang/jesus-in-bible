@@ -1,4 +1,5 @@
 $( document ).ready(function() {
+	$("html, body").animate({ scrollTop: $(document).height() }, "slow");
 	console.log( "ready!" );
 	$(".title")
 		.mouseover(function() {
